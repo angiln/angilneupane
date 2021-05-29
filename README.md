@@ -2,7 +2,7 @@
 <html>
     <head><meta charset="UTF-8">
         <title> ANGIL</title> 
-        <p align="left"><marquee direction ="right" <b><h1> ॐ नमः शिवाय</h1></p></b>
+        <p align="left"><marquee direction ="right" <b><h1> ANGIL</h1></p></b>
         <ul id="nav">
     </head>
     <body  background="tmbs.jpg">
