@@ -2,7 +2,7 @@
 <html>
     <head><meta charset="UTF-8">
         <title> ANGIL</title> 
-        <p align="left"><marquee direction ="right" <b><h1> ANGIL</h1></p></b>
+        <p align="left"><marquee direction ="right" <b><h1> ॐ नमः शिवाय</h1></p></b>
         <ul id="nav">
     </head>
     <body  background="tmbs.jpg">
@@ -20,19 +20,10 @@
                      }</style>
                      <p>is at your screen</p>
                      <h1><centre></p></h1> </p> <p>&#9829;</p></p></h1></centre></h1>
-                <p> <h1><b>A Student, Programmer and a Tech enthusiast.</h1></i></p></h1>
+                <p> <h1><b>A Student, Programmer and a Tech enthusiast.</b></h1></p>
                  
                   <h1><a href="https://www.facebook.com/profile.php?id=100007937686864&sk=about"><b>click here to learn more</b></a>
-                     <h1><centre></p></h1> </p> <mark><p>&#9829;</p</mark></p></h1></centre></h1>
-                    </h1> <h1><p></p></h1>
-                
-            </div>
-        
-        </div><br><br>
-       
-    <br>
-    
-       <br><br>                            
+                                           
        
 	    	 </body>
 </html>
