@@ -9,7 +9,7 @@
         <div id="container">
 
             <div id="image" style="float:right;">
-                <img src="angil.jpg"  align="left" width="60%"/><br><br>
+                <img src="angil.jpg"  align="left" width="600" height="600"/><br><br>
             </div>
                 <div id="texts" style="float:left;"> 
                 <h1><mark><h1>  <p align="left">HEY HEY !!</h1>
