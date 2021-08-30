@@ -7,7 +7,7 @@
         <ul id="nav">
 	<meta name="google-site-verification" content="xfRd2GyHiWcwMSPi4Eqi6clHPSj8nfnfO98Lp-xfesU" />
     </head>
-    <body  background="tmbs.jpg">
+    <body  background="mypic.jpg">
         <div id="container">
 
             <div id="image" style="float:right;">
