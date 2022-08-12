@@ -141,8 +141,8 @@ a:hover,a.active{
 nav ul li a:hover{
     color:skyblue;
 }
-#ul:checked{
-    left:0;
+#check:checked ~ ul{
+    left:-100rem;
 }
 }
 
